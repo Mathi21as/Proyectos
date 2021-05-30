@@ -1,2 +1,2 @@
-# Practicas
+# Proyectos
 Practicas en general
