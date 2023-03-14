@@ -1,2 +1,2 @@
 # Proyectos
-Practicas en general
+Contador hecho con react js
